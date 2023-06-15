@@ -1,5 +1,6 @@
 #include <stdio.h>
-#inculed <unisted.h>
+#inculed <unistd.h>
+
 /**
 * main - Entry point
 * Return: Always 1 (Success)
